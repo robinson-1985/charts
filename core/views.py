@@ -71,5 +71,3 @@ class DadosJSONView(BaseLineChartView):
                 ]
             dados.append(dado)
         return dados
-
-
