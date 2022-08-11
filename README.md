@@ -1,2 +1,3 @@
 # charts
-Nesse projeto iremos gerar gráficos na aplicação Django.
+
+- Nesse projeto, foram implementados gráficos em uma aplicação Django.
